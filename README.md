@@ -42,7 +42,7 @@ This workflow starts with content generation, then evaluates the result:
 - If **needs improvement**, it optimizes and sends the result back to evaluation (loop).
 
 <p align="center">
-  <img src="images/workflow_conditional.png" alt="LangGraph Conditional Workflow" width="400"/>
+  <img src="image_seq.png" alt="LangGraph Conditional Workflow" width="400"/>
 </p>
 
 ---
