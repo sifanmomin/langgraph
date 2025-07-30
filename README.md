@@ -62,7 +62,7 @@ Here, multiple evaluators (analysis, language, thought) run **in parallel**. The
 This diagram shows a complete workflow that mixes **parallel, sequential, and conditional flows**, showcasing how LangGraph can combine complex patterns.
 
 <p align="center">
-  <img src="images/langgraph_graph_demo.png" alt="LangGraph Graph Demo" width="700"/>
+  <img src="image.png" alt="LangGraph Graph Demo" width="700"/>
 </p>
 
 ---
