@@ -1,7 +1,9 @@
 <p align="left">
-  <img src="image.png" alt="LangGraph Overview" width="700"/>
+  <img src="image.png" alt="LangGraph" width="700"/>
 </p>
-**## 🚀 LangGraph: Building LLM-Powered Agents**
+
+
+## 🚀 LangGraph: Building LLM-Powered Agents
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
