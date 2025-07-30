@@ -52,7 +52,7 @@ This workflow starts with content generation, then evaluates the result:
 Here, multiple evaluators (analysis, language, thought) run **in parallel**. Their results feed into a final evaluation step before the workflow ends.
 
 <p align="center">
-  <img src="image.png" alt="LangGraph Parallel Workflow" width="600"/>
+  <img src="image_par.png" alt="LangGraph Parallel Workflow" width="600"/>
 </p>
 
 ---
