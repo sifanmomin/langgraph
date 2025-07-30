@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="image.png" alt="LangGraph Overview" width="700"/>
+</p>
 # 🚀 LangGraph: Building LLM-Powered Agents
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
@@ -14,9 +17,6 @@
 
 It uses a **graph-based architecture** to model agent behavior, offering more flexible, dynamic, and reusable execution flows than traditional linear pipelines.  
 
-<p align="center">
-  <img src="image.png" alt="LangGraph Overview" width="700"/>
-</p>
 
 **Key Capabilities:**
 - 🤖 Agentic Reasoning  
