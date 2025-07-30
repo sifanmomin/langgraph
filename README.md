@@ -10,7 +10,7 @@
 
 ## ✨ What is LangGraph?
 
-**LangGraph** is a curated collection of ready-to-run **Jupyter notebooks** designed to help you explore the inner workings of **LLM agent workflows** with clarity and hands-on examples.
+**LangGraph** is an open-source Python library built on top of LangChain that enables the creation of complex, stateful, and cyclic workflows for AI agents—especially those powered by Large Language Models (LLMs). It adopts a graph-based architecture to model agent behavior, offering more flexible, dynamic, and reusable execution flows than traditional linear pipelines.
 
 Explore patterns like:
 
@@ -18,7 +18,8 @@ Explore patterns like:
 - 🔁 Iterative Prompting  
 - 🔗 Prompt Chaining  
 - ⚡ Parallel Inference  
-- 🔀 Conditional Routing  
+- 🔀 Conditional Routing
+- 🔗 Presistent Memory 
 
 All within one interactive playground.
 
