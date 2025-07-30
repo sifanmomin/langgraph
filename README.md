@@ -15,7 +15,7 @@
 It uses a **graph-based architecture** to model agent behavior, offering more flexible, dynamic, and reusable execution flows than traditional linear pipelines.  
 
 <p align="center">
-  <img src="images/langgraph_overview.png" alt="LangGraph Overview" width="700"/>
+  <img src="image.png" alt="LangGraph Overview" width="700"/>
 </p>
 
 **Key Capabilities:**
